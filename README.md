@@ -6,9 +6,9 @@ Sou estudante de Desenvolvimento de Sistemas na Etec Conselheiro Antônio Prado.
  Atualmente participando estou participando do Santander Code Girls 2025  AWS Cloud Foundations.
  Desenvolvendo projetos com Python, HTML, CSS.
 
----
 
- Tecnologias e Ferramentas
+
+
 
 
 Estas são as tecnologias que venho utilizando em meus projetos acadêmicos na Etec e em meus estudos autodidatas:
