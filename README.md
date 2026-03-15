@@ -32,4 +32,4 @@ Sempre em busca de novos aprendizados, aberta para novas conexões, troca de con
 
  📊 Estatísticas do GitHub
 
-![Status do GitHub de Isolina](https://github-readme-stats.vercel.app/api?username=IsaSena50/IsaSena50README.md &show_icons=true&theme=radical)
+![Status do GitHub de Isolina](https://github-readme-stats.vercel.app/api?IsaSena50/IsaSena50README.md &show_icons=true&theme=radical)
