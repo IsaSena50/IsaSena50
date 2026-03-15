@@ -30,6 +30,6 @@ Sempre em busca de novos aprendizados, aberta para novas conexões, troca de con
 
 ---
 
- 📊 Estatísticas do GitHub
+  Estatísticas do GitHub
 
-![Status do GitHub de Isolina](https://github-readme-stats.vercel.app/api?https://github.com/IsaSena50/IsaSena50/edit/main/README.md &show_icons=true&theme=radical)
+ ![Status do GitHub de Bianca](https://github-readme-stats.vercel.app/api?username=IsaSena50&show_icons=true&theme=dracula)
