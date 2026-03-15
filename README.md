@@ -28,8 +28,6 @@ Sempre em busca de novos aprendizados, aberta para novas conexões, troca de con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isolinasena/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaferreirasena@gmail.com)
 
----
 
-  Estatísticas do GitHub
 
- ![Status do GitHub de Bianca](https://github-readme-stats.vercel.app/api?username=IsaSena50&show_icons=true&theme=dracula)
+
