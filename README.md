@@ -3,10 +3,8 @@ Olá, eu sou a Isolina!
 
 Sou estudante de Desenvolvimento de Sistemas na Etec Conselheiro Antônio Prado. Atualmente, foco meus estudos em Front-End e arquitetura de dados, buscando sempre criar soluções que unem lógica eficiente e boa experiência. 
 
- Atualmente participando do Santander Code Girls 2025  AWS Cloud Foundations.
+ Atualmente participando estou participando do Santander Code Girls 2025  AWS Cloud Foundations.
  Desenvolvendo projetos com Python, HTML, CSS.
- Autodidata em Inglês.
- Baseada em Sumaré, SP.
 
 ---
 
